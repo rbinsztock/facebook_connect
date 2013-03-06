@@ -3,7 +3,7 @@
 
 set your ENV['FACEBOOK_KEY'] & ENV['FACEBOOK_SECRET']
 
-with in your terminal(Linux, MAC OS) 
+with your terminal(Linux, MAC OS) 
 
 === export FACEBOOK_KEY=xxxxxxxxxxxxxxxxx
 === export FACEBOOK_SECRET=zzzzzzzzzzzzzzzzzzzzzz
